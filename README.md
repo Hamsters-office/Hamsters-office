@@ -1,10 +1,3 @@
-- Hi, I’m @Hamsters-office
-- I’m interested in ...
-- I’m currently learning ...
-- I’m looking to collaborate on ...
-- How to reach me ...
-
-<!---
-Hamsters-office/Hamsters-office is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+私は日本人です。
+これは学校で使えるものが作りたいから
+作っただけです
